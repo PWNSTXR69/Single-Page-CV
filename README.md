@@ -6,10 +6,12 @@ Roadmap web front-end project.
 ### Run locally
 
 1. Clone the repository using git clone:
-   ```bash
-   git clone <git link>
-   cd <repo-name>
-   ```
+
+```bash
+git clone <git link>
+cd <repo-name>
+```
+
 2. Open `index.html` in your browser (double-click it, or right-click → Open with → your browser).
 
 No build step, dependencies, or installation required.
